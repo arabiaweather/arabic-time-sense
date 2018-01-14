@@ -6,7 +6,8 @@ Android / Java Library to display time ago in both Arabic and English, if you pa
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 <a href="http://www.methodscount.com/?lib=com.github.arabiaweather%3Aarabic-time-sense%3A1.0"><img src="https://img.shields.io/badge/Methods and size-17 | 5 KB-e91e63.svg"/></a>
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/90251ffcc45149b6af5aea08f46118e2)](https://www.codacy.com/app/AhmedDroid/arabic-time-sense?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arabiaweather/arabic-time-sense/&amp;utm_campaign=Badge_Grade)
+<a href="http://www.methodscount.com/?lib=com.github.arabiaweather%3Aarabic-time-sense%3A1.0"><img src="https://img.shields.io/badge/Min%20SDK-16-blue.svg"/></a>
 
 # How to use:
 
@@ -27,7 +28,7 @@ Add the dependency
   
   ```groovy
  dependencies {
-	   compile 'com.github.arabiaweather:arabic-time-sense:1.0'
+	   implementation 'com.github.arabiaweather:arabic-time-sense:1.0.1'
 	}
   ```
  
