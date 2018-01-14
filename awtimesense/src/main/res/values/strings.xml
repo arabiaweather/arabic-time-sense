@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="momentsAgo">Moments Ago</string>
+    <string name="since">Since</string>
+    <string name="oneMinuteAgo">Since 1 Minute</string>
+    <string name="twoMinutesAgo">Since 2 Minutes</string>
+    <string name="minutes">Minutes</string>
+    <string name="minute">Minute</string>
+    <string name="hourAgo">Since 1 Hour</string>
+    <string name="twoHoursAgo">Since 2 Hours</string>
+    <string name="hours">Hours</string>
+    <string name="hour">Hour</string>
+    <string name="dayAgo">Since 1 Day</string>
+    <string name="twoDaysAgo">Since 2 Days</string>
+
+
+</resources>

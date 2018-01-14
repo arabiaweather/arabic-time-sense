@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="momentsAgo">منذ لحظات</string>
+    <string name="since">منذ</string>
+    <string name="oneMinuteAgo">منذ دقيقة</string>
+    <string name="twoMinutesAgo">منذ دقيقتين</string>
+    <string name="minutes">دقائق</string>
+    <string name="minute">دقيقة</string>
+    <string name="hourAgo">منذ ساعة</string>
+    <string name="twoHoursAgo">منذ ساعتين</string>
+    <string name="hours">ساعات</string>
+    <string name="hour">ساعة</string>
+    <string name="dayAgo">منذ يوم</string>
+    <string name="twoDaysAgo">منذ يومين</string>
+</resources>
