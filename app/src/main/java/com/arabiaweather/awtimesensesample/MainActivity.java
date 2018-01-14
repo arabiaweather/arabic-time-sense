@@ -32,8 +32,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(com.arabiaweather.awtimersample.R.layout.activity_main);
+        setContentView(com.arabiaweather.awtimesensesample.R.layout.activity_main);
 
-        Log.d("test", AWTimeSense.getTimeAgo(1515493500000L, "/"));
+        Log.d("test", AWTimeSense.getTimeAgo(getApplicationContext(), 30 * 1000, "/"));
     }
 }
