@@ -38,6 +38,9 @@ Add the dependency
  // pass on the context, the time to be evaluated agains the current time, a separator to separate date units
  AWTimeSense.getTimeAgo(getApplicationContext(), 30 * 1000, "/");
 ```
+# Credits
+<a href="https://github.com/AhmedDroid">@AhmeDroid</a> </br>
+<a href="https://github.com/osama-raddad">@Osama Raddad</a>
 
 # License
 
