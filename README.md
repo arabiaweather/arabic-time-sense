@@ -38,6 +38,17 @@ Add the dependency
  // pass on the context, the time to be evaluated agains the current time, a separator to separate date units
  AWTimeSense.getTimeAgo(getApplicationContext(), 30 * 1000, "/");
 ```
+
+# Advance Setup
+If you are using proguard, please include the following rules:
+```
+-keep class com.arabiaweather.awtimesense.** { *; }
+-keep interface com.arabiaweather.awtimesense.** { *; }
+-keep enum com.arabiaweather.awtimesense.** { *; }
+-dontwarn com.arabiaweather.awtimesense.**
+```
+
+
 # Credits
 <a href="https://github.com/AhmedDroid">@AhmeDroid</a> </br>
 <a href="https://github.com/osama-raddad">@Osama Raddad</a>
